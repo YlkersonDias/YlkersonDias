@@ -53,7 +53,7 @@ Me chamo Ylkerson Coelho Dias, tenho 26 anos e sou natural do Rio de Janeiro. At
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180em" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=YlkersonDias&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -61,7 +61,7 @@ Me chamo Ylkerson Coelho Dias, tenho 26 anos e sou natural do Rio de Janeiro. At
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180em" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlkersonDias&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
