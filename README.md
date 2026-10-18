@@ -2,8 +2,8 @@
 
 **Desenvolvedor Full Stack** · React · TypeScript · C# / .NET · MySQL
 
-- 🐹 Construindo o **[Kliny](https://github.com/YlkersonDias/kliny)**, um app de finanças pessoais no ar em [kliny.app.br](https://kliny.app.br)
-- 💬 Pode me perguntar sobre React, .NET, MySQL e segurança em aplicações web
+- 🔭 Aberto a oportunidades como desenvolvedor
+- 🌱 Aprendendo sobre IA generativa, arquitetura de APIs e segurança web
 - 🎓 Análise e Desenvolvimento de Sistemas
 
 ---
