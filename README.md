@@ -44,5 +44,5 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ylkerson_Coelho_Dias-2A2C55?style=flat-square&logo=linkedin&logoColor=A9ADF5&labelColor=12132A)](https://www.linkedin.com/in/ylkerson-coelho-dias-34973b247/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ylkerson_Coelho_Dias-2A2C55?style=flat-square&logo=linkedin&logoColor=A9ADF5&labelColor=12132A)](https://www.linkedin.com/in/ylkersondias/)
 [![Kliny](https://img.shields.io/badge/Site-kliny.app.br-2A2C55?style=flat-square&logo=googlechrome&logoColor=A9ADF5&labelColor=12132A)](https://kliny.app.br)
